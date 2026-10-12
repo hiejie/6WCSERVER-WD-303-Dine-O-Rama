@@ -3,7 +3,7 @@
     <section class="hero hero-home">
       <div class="hero-home-intro">
         <div class="hero-copy">
-          <p class="eyebrow">Dine-O-Rama food court presents</p>
+          <p class="eyebrow">Dine-O-Rama presents</p>
           <h1>Find your next meal</h1>
           <p class="tagline">Where every craving finds a table.</p>
           <p class="lead">Search our food court by restaurant, cuisine or location.</p>
