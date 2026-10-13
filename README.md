@@ -1,4 +1,4 @@
-# Dine-O-Rama: A Food Court Management System
+# Dine-O-Rama: A Restaurant Management System
 
 A modern food court directory with a Vue 3 frontend and an Express/MongoDB backend, designed for unified deployment.
 
