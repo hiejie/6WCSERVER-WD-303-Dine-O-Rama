@@ -1,7 +1,7 @@
 {
   "name": "dine-o-rama",
   "version": "2.0.0",
-  "description": "Dine-O-Rama: A Food Court Management System",
+  "description": "Dine-O-Rama: A Restaurant Management System",
   "main": "backend/server.js",
   "scripts": {
     "start": "node backend/server.js",
