@@ -1,4 +1,4 @@
-# Dine-O-Rama: A Food Court Management System
+# Dine-O-Rama: A Restaurant Management System
 Needs Node.js 18+ and MongoDB with `dbRestaurants` (collection `restaurants`) imported.
 
 1. `npm install`
